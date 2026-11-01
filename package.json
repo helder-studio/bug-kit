@@ -1,6 +1,6 @@
 {
   "name": "@helder-studio/bug-kit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Free, backend-free bug reports for React Native and web QA builds: device info, logs and every dev tool's state in one Markdown report, shared or filed as a GitHub issue.",
   "keywords": [
     "bug-report",
